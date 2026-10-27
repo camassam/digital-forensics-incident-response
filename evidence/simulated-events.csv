@@ -1,0 +1,10 @@
+timestamp,event_id,username,source,activity,details
+2026-10-27T08:42:00Z,EVT001,j.smith,authentication,login_success,Employee logged in
+2026-10-27T08:47:00Z,EVT002,j.smith,process,process_start,Unrecognised script interpreter started
+2026-10-27T08:48:00Z,EVT003,j.smith,file,file_created,New file created in temporary directory
+2026-10-27T08:51:00Z,EVT004,j.smith,authentication,login_failure,Authentication attempt failed
+2026-10-27T08:52:00Z,EVT005,j.smith,authentication,login_failure,Authentication attempt failed
+2026-10-27T08:54:00Z,EVT006,j.smith,network,connection,Outbound connection recorded in simulated telemetry
+2026-10-27T09:03:00Z,EVT007,j.smith,file,file_modified,Document modified
+2026-10-27T09:10:00Z,EVT008,system,security,alert,Synthetic endpoint alert generated
+2026-10-27T09:15:00Z,EVT009,admin,authentication,login_success,Administrator account logged in
