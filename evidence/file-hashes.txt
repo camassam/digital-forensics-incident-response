@@ -1,0 +1,5 @@
+SHA-256 Evidence Integrity Manifest
+Case ID: DFIR-2026-001
+Evidence file: evidence/simulated-events.csv
+SHA-256: 2ebef3a6816ffea13c7bca4687d8421f59df55180b032cfdc4d7ba2f3e7fab18
+Note: Hash calculated locally after creating the synthetic evidence file.
