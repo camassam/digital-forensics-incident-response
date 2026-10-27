@@ -1,0 +1,10 @@
+timestamp,event_id,username,event_type,observation,investigator_notes
+2026-10-27T08:42:00Z,EVT001,j.smith,Login success,Employee logged in,Establishes the beginning of the observed activity
+2026-10-27T08:47:00Z,EVT002,j.smith,Process start,Unrecognised script interpreter started,Requires further investigation; process identity and command line are unavailable
+2026-10-27T08:48:00Z,EVT003,j.smith,File creation,New file created in temporary directory,Filename and file contents are not provided
+2026-10-27T08:51:00Z,EVT004,j.smith,Login failure,Authentication attempt failed,One failed authentication event
+2026-10-27T08:52:00Z,EVT005,j.smith,Login failure,Authentication attempt failed,Second failed authentication event; cause is unknown
+2026-10-27T08:54:00Z,EVT006,j.smith,Network connection,Outbound connection recorded in simulated telemetry,Destination and connection details are unavailable
+2026-10-27T09:03:00Z,EVT007,j.smith,File modification,Document modified,Document identity and changes are unknown
+2026-10-27T09:10:00Z,EVT008,system,Security alert,Synthetic endpoint alert generated,Alert contents and severity are unavailable
+2026-10-27T09:15:00Z,EVT009,admin,Login success,Administrator account logged in,Relationship to the earlier activity is not established
